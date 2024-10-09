@@ -1,7 +1,7 @@
 <?php
 
 class Vehicle{
-  public static $doors = 4;
+  public static $window = 4;
 }
 
 class Bus extends Vehicle{
