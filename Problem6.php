@@ -12,6 +12,6 @@ class Bus extends Vehicle {
   }
 }
 
-$bus = new Bus("Star Bus", 30, 80);
+$bus = new Bus("Saulog Bus", 30, 80);
 echo "The Bus Fare is: ",$bus->fare();
 ?>
